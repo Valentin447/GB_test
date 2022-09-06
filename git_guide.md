@@ -73,3 +73,4 @@ git status.
 
     git merge имя_ветки
 
+---
